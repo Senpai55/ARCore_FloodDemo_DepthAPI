@@ -2,7 +2,9 @@
 
 This AR Demo Project uses the ARCore Depth API samples to create an application that can flood a room with water.
 
-You can also drop robots into the water that float and can be rescued by throwing them life preeservers.
+You can also drop robots into the water that float and can be rescued by throwing them life preservers.
+
+View the video here: https://senpai55.github.io/ARCore_FloodDemo_DepthAPI/
 
 This project is based on "ARCore Depth Lab - Depth API Samples for Unity", which uses the ARCore Depth API.
 
